@@ -1,0 +1,2 @@
+adivinhacao = teste
+print(adivinhacao)
