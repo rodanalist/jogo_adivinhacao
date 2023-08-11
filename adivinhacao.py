@@ -1,2 +1,2 @@
-adivinhacao = 'teste1'
+adivinhacao = 'teste2'
 print(adivinhacao)
